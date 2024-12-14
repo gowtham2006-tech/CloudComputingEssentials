@@ -1,25 +1,17 @@
 # Software Development Life Cycle
  
-. requirement analysis
-. design
-. environment setup
-. development
-. testing
-. deployment
-. maintanance
+- requirement analysis
+- design
+- environment setup
+- development
+- testing
+- deployment
+- maintanance
 
 # System Archietecture
-. shell
-. operating system
-. kernel
-. hardware
-
-# #ponraj thambigal
-- sharuk
-- wasim
-- gowtham
-- deena
-- arun
-- viswa
+- shell
+- operating system
+- kernel
+- hardware
 
 
